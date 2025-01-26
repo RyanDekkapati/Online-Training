@@ -1,2 +1,2 @@
 # Online-Training
-Online Training for Remote Area Dtudents
+Online Training for Remote Area Students
